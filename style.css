@@ -4,8 +4,16 @@ body{
 }
 
 header {
-    border-bottom: solid 2px blue (42, 122, 228);
+    border-bottom: solid 2px rgb(129, 129, 221) (42, 122, 228);
     padding: 20px;
     font-size: 32px;
-    color: blue (42, 122, 228);
+    color: rgb(255, 174, 237) (42, 122, 228);
+}
+
+section{
+    backgroun-color: rgb(168, 250, 185);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display:flex;
+    justify-content: center
 }
